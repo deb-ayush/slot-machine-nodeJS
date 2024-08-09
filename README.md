@@ -12,9 +12,8 @@ This is a simple slot machine game built with Node.js, where you can bet on mult
 - **Play Again**: Option to continue playing or cash out your winnings.
 
 ## How to Play
-1. **Install Dependencies**: Make sure you have Node.js installed, then install the required package using:
-   ```bash
-   npm install prompt-sync
+ **Install Dependencies**: Make sure you have Node.js installed, then install the required package using:
+   ``npm install prompt-sync``
 
 ## Run the Game:
     node slot-machine.js
